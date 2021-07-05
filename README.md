@@ -5,4 +5,4 @@ Na tabela abaixo estão todos os projetos que VOCÊS estão construindo nesse ch
 | Pessoa que criou o projeto | Projeto |
 | --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
-<!-- CHANNEL_PROJECTS:END --> |
+<!-- CHANNEL_PROJECTS:END -->
